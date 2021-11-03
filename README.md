@@ -1,3 +1,8 @@
+# Boilerplate for React Project
+
+Useful project I can use like starting boilerplate for react application.
+
+---
 <div>
   <h1 align="center"><a href="https://epicreact.dev/advanced-hooks">🔥 Advanced React Hooks 🚀 EpicReact.Dev</a></h1>
   <strong>
